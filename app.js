@@ -29,7 +29,7 @@ promise.then((data)=>{
     alert("please enter the valied location")
 })
 }).catch((error)=>{
-    alert(error)
+    alert("please enter the values location")
 })
 
 }
